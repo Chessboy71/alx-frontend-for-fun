@@ -2,6 +2,8 @@
 
 import sys
 import os.path
+"""Making a file that converts markdown to html
+    """
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
