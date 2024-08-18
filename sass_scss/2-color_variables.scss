@@ -1,0 +1,13 @@
+/* Colors */
+$main-color: #3d3d3d;
+$bg-color: #6d6d6d;
+body {
+  color: $main-color;
+  background-color: $bg-color;
+}
+p {
+  color: $main-color;
+}
+h2 {
+  background-color: $bg-color;
+}
